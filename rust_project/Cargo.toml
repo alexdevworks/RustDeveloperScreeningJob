@@ -1,0 +1,22 @@
+[package]
+name = "rust_project"
+version = "0.1.0"
+authors = ["locke"]
+edition = "2018"
+build = "build.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+calamine = "0.16.1"
+libc = "*"
+currency = "0.4.0"
+
+[build-dependencies]
+calamine = "0.16.1"
+libc = "*"
+currency = "0.4.0"
+
+[lib]
+name = "rtrv"
+crate-type = ["cdylib"]

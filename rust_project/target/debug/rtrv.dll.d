@@ -1,0 +1,1 @@
+C:\Users\locke\IdeaProjects\RustDeveloperScreeningJob\rust_project\target\debug\rtrv.dll.lib: C:\Users\locke\IdeaProjects\RustDeveloperScreeningJob\rust_project\build.rs C:\Users\locke\IdeaProjects\RustDeveloperScreeningJob\rust_project\src\lib.rs
